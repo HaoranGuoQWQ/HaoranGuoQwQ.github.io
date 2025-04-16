@@ -39,14 +39,28 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m a graduate student in ABA program at Boston University.\nThis website is a portfolio showcasing some of the work I’ve done throughout my academic and professional journey.\n\n\nI hope to work in a tech-driven company where I can apply data analytics to solve real-world business problems."
+    "text": "I’m a graduate student in ABA program at Boston University.\nThis website is a portfolio showcasing some of the work I’ve done throughout my academic and professional journey."
   },
   {
     "objectID": "about.html#hi-im-haoran",
     "href": "about.html#hi-im-haoran",
     "title": "About Me",
     "section": "",
-    "text": "I’m a graduate student in ABA program at Boston University.\nThis website is a portfolio showcasing some of the work I’ve done throughout my academic and professional journey.\n\n\nI hope to work in a tech-driven company where I can apply data analytics to solve real-world business problems."
+    "text": "I’m a graduate student in ABA program at Boston University.\nThis website is a portfolio showcasing some of the work I’ve done throughout my academic and professional journey."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nBoston University, M.S. in Applied Business Analytics (09/2024 – 05/2026 expected)\nKey Courses: R, Business Analytics, Operations, Financial Concepts, Decision-Making\nUniversity of California, Davis, B.S. in Statistics (09/2020 – 06/2024)\nKey Courses: Statistical Data Science, Game Theory, Nonparametrics, Regression, Time Series"
+  },
+  {
+    "objectID": "about.html#internship-experience",
+    "href": "about.html#internship-experience",
+    "title": "About Me",
+    "section": "Internship Experience",
+    "text": "Internship Experience\n\nMarketing Analyst Intern — Nanjing Securities\nAug 2023 – Sep 2023 | Nanjing, China\n- Produced user portraits based on trading behavior and socioeconomic traits of 100+ clients.\n- Developed an automated pre-selection tool to match clients with suitable financial products.\n- Created visualizations for investment portfolios and predicted margins to improve presentations.\n\n\nData Scientist Intern — Google (Remote)\nJun 2023 – Aug 2023\n- Applied Word2Vec and TF-IDF to extract 500+ key terms for Gboard prediction optimization.\n- Built a DNN-based classifier on Fashion-MNIST and review datasets; improved model efficiency.\n- Conducted authenticity tests on IMDB articles using WSDM protocol; achieved 80% precision.\n\n\nCareer Goals\nI hope to work in a tech-driven company where I can apply data analytics to solve real-world business problems."
   },
   {
     "objectID": "cv.html",

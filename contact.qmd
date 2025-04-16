@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 ---
+::: grid
+::: {.g-col-12 .g-col-lg-6}
 
 ##  Get in Touch
 
@@ -19,4 +21,11 @@ Feel free to connect with me through the following methods:
 001-530-760-9966
 
 
+:::
 
+::: {.g-col-12 .g-col-lg-6}
+
+![](hear.png)
+
+:::
+:::
