@@ -98,4 +98,26 @@ title: "Internships & Projects"
 - Built Excel Solver model to determine staffing for NPV maximization.  
 - Proposed strategy for office location, staffing plan, and future data collection.
 
+---
+
+### Cruise Industry Expansion Strategy for Lobster Land  
+**AD654 | Boston University**  
+- Built Tableau dashboard to visualize cruise trends and identify port opportunities.  
+- Applied k-means clustering to segment Caribbean ports and guide itinerary design.  
+- Conducted conjoint analysis to recommend amenity bundles under a $75 cost constraint.  
+- Forecasted EPS for major cruise lines (NCLH & CCL) using time series models.  
+- Developed classification model to predict cruise booking cancellations.  
+- Ran A/B test to evaluate promotional images for marketing effectiveness.  
+- Proposed guest experience concepts based on segmentation strategies from *Icon of the Seas*.
+
+---
+
+### Copenhagen Airbnb Market Analysis  
+**AD699 | Boston University**  
+- Cleaned and explored Copenhagen Airbnb dataset with emphasis on neighborhood-based summary statistics.  
+- Created multi-layer visualizations and interactive maps to uncover spatial and pricing trends.  
+- Built multiple regression model to predict nightly rental price, applying feature selection and transformation.  
+- Developed KNN and Naive Bayes classifiers to predict amenities and perceived value scores.  
+- Constructed classification tree to segment short-term vs. long-term rentals.  
+- Conducted k-means clustering to identify key rental market segments and their characteristics.
 
